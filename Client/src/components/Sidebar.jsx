@@ -125,7 +125,6 @@ const Sidebar = () => {
       </div>
 
       {/* Logout button */}
-      {/* Logout */}
       <div className="p-3 border-t border-white/6">
         <button
           onClick={handleLogout}
